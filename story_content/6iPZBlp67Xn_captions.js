@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0A00:00:01,024%20--%3E%2000:00:03,584%0Aand%20below%20are%20the%20links%20for%20your%20reference"}')

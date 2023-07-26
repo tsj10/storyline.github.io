@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0A00:00:00,768%20--%3E%2000:00:04,096%0AHere%20is%20some%20extra%20point%20I%20would%20like%20to%20highlight%20for%20this%20training"}')
